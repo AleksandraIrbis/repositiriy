@@ -41,3 +41,6 @@ if kusok < poloska*stolbik and (kusok%stolbik==0 or kusok%poloska==0):
     print("хватай и беги!")
 else:
     print("Ну тут постараться придется, друган точно успеет заметить и надавать тебе по лапам)))))")
+
+
+#Дз 3, задача 1
